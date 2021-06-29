@@ -126,18 +126,6 @@ header .navigation .nav.sf-menu {
     justify-content: flex-start !important;
 }
 
-.nav.sf-menu li a {
-    text-transform: uppercase !important;
-    font-family: Roboto, sans-serif !important;
-    font-style: normal !important;
-    font-weight: bold !important;
-    font-size: 16px !important;
-    line-height: 19px !important;
-    text-align: center !important;
-    text-transform: uppercase !important;
-    color: #000000 !important;
-}
-
 /* Header - mobile */
 
 @media (max-width: 991px) {
