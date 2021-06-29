@@ -25,8 +25,8 @@ body h1, body h2, body h3, body h4, body h5, body h6, body p, body a, body span,
     --btn-primary-clr-h: #F9474B;
     --btn-secondary-clr: #F9474B;
     --btn-secondary-border-clr: #F9474B;
-    --btn-secondary-clr-hover: #7d6231;
-    --link-hover-clr: #7d6231;
+    --btn-secondary-clr-hover: #D1262A;
+    --link-hover-clr: #D1262A;
     --btn-primary-clr: white;
     --btn-secondary-bg-clr: transparent;
 }
