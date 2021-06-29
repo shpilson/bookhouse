@@ -5,7 +5,7 @@
         position: absolute !important;
         bottom: 10px;
         height: 70px !important;
-        top: auto !important;
+        top: 5px !important;
     }
     .thumbnail.thumbnail-banner .caption-inner {
         border: none !important;
@@ -87,11 +87,15 @@ body.ru.ltr .wrapper .homefeatured_category>div>h2 {
     padding-left: 6px !important;
 }
 
+body.ru.ltr .wrapper .homefeatured_category>div>div>div:hover>div {
+    background: #F2D9AD !important;
+}
+
 body.ru.ltr .wrapper .homefeatured_category>div>div>div>.thumbnail .media .media-link .img-bg img {
     padding: 0 !important;
     border-radius: 20px;
     width: 150px !important;
-    margin: 30px auto 0 !important;
+    margin: 70px !important;
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
@@ -147,7 +151,7 @@ body.theme_11 .wrapper .homefeatured_category>div>div>div>.thumbnail .media .med
     align-items: center;
     -webkit-box-pack: center;
     -ms-flex-pack: center;
-    justify-content: center;
+    justify-content: unset;
 }
 
 .page-section.subcategories_top {
