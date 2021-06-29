@@ -1,5 +1,6 @@
 @import './typographics.css';    /* Fonts & Colors / Шрифты, цвета */
 @import './buttons.css';         /* Buttons / Кнопки */
 
+@import './Main/category.css';   /* Category / Категории */
 @import './Main/card.css';       /* Card item / Карточка товара */
 @import './Footer/Footer.css';   /* Footer / Подвал */
