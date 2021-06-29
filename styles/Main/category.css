@@ -309,5 +309,5 @@ body.common-home .content-area .page-section:after, body.common-home .content-ar
 
 body.theme_11 .wrapper .homefeatured_category>div>div>div>.thumbnail .media .media-link .caption .caption-wrapper, body.theme_11 .wrapper .homefeatured_category>div>div>div>.thumbnail .media .media-link .caption .caption-wrapper .caption-inner {
     display: block!important;
-    padding: 0 10px;
+    padding: 0 5px;
 }
