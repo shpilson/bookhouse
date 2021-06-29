@@ -87,10 +87,6 @@ body.ru.ltr .wrapper .homefeatured_category>div>h2 {
     padding-left: 6px !important;
 }
 
-body.ru.ltr .wrapper .homefeatured_category>div>div>div:hover>div {
-    background: #F2D9AD !important;
-}
-
 body.ru.ltr .wrapper .homefeatured_category>div>div>div>.thumbnail .media .media-link .img-bg img {
     padding: 0 !important;
     border-radius: 20px;
