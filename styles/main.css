@@ -1,7 +1,1 @@
-@import './typographics.css';
-
-/* Background image / Фоновое изображение */
-
-body.common-home>.wrapper {
-    background-size: 100%;
-}
+@import './typographics.css'; /* Fonts & Colors / Шрифты, цвета */
