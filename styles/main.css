@@ -1,1 +1,7 @@
 @import './typographics.css';
+
+/* Background image / Фоновое изображение */
+
+body.common-home>.wrapper {
+    background-size: 100%;
+}
