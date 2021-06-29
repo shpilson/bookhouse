@@ -45,8 +45,8 @@ body .footer .footer-meta {
 }
 
 #sellavi_logo img {
-    -webkit-filter: sepia(1) !important;
-    filter: sepia(1) !important;
+    -webkit-filter: url('#cherry-icecream') !important;
+    filter: url('#cherry-icecream') !important;
 }
 
 #home footer .footer-widgets a .fa {
